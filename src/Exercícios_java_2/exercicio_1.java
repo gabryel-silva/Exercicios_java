@@ -6,7 +6,7 @@ public class exercicio_1 {
 	//Faça o teste de mesa e mostre o último valor armazenado em cada uma das variáveis x,y,a,b,c.
 
 
-		 int x = 0,y = 0, a = 0, b = 0, c = 0;
+		 int x = 0,y = 0, a = 0, b = 0, c;
 		 
 		 x = 2;								 				            //Teste de mesa
 		 y = 1;                              
